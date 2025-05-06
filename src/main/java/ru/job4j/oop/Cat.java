@@ -20,7 +20,7 @@ public class Cat {
     public static void main(String[] args) {
         System.out.println("There is gav's food.");
         Cat gav = new Cat();
-        gav.giveNick("Woof");
+        gav.giveNick("Woofy");
         gav.eat("cutlet");
         gav.show();
         System.out.println("There is black's food.");
